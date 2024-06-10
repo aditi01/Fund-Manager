@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StockChart renders the chart with the given data and matches snapshot 1`] = `
+<div>
+  <canvas
+    height="150"
+    role="img"
+    width="300"
+  />
+</div>
+`;
